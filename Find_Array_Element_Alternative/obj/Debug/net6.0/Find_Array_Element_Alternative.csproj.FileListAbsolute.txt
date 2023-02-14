@@ -1,0 +1,15 @@
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_2\Find_Array_Element_Alternative\obj\Debug\net6.0\Find_Array_Element_Alternative.csproj.AssemblyReference.cache
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_2\Find_Array_Element_Alternative\obj\Debug\net6.0\Find_Array_Element_Alternative.GeneratedMSBuildEditorConfig.editorconfig
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_2\Find_Array_Element_Alternative\obj\Debug\net6.0\Find_Array_Element_Alternative.AssemblyInfoInputs.cache
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_2\Find_Array_Element_Alternative\obj\Debug\net6.0\Find_Array_Element_Alternative.AssemblyInfo.cs
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_2\Find_Array_Element_Alternative\obj\Debug\net6.0\Find_Array_Element_Alternative.csproj.CoreCompileInputs.cache
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_2\Find_Array_Element_Alternative\bin\Debug\net6.0\Find_Array_Element_Alternative.exe
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_2\Find_Array_Element_Alternative\bin\Debug\net6.0\Find_Array_Element_Alternative.deps.json
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_2\Find_Array_Element_Alternative\bin\Debug\net6.0\Find_Array_Element_Alternative.runtimeconfig.json
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_2\Find_Array_Element_Alternative\bin\Debug\net6.0\Find_Array_Element_Alternative.dll
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_2\Find_Array_Element_Alternative\bin\Debug\net6.0\Find_Array_Element_Alternative.pdb
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_2\Find_Array_Element_Alternative\obj\Debug\net6.0\Find_Array_Element_Alternative.dll
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_2\Find_Array_Element_Alternative\obj\Debug\net6.0\refint\Find_Array_Element_Alternative.dll
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_2\Find_Array_Element_Alternative\obj\Debug\net6.0\Find_Array_Element_Alternative.pdb
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_2\Find_Array_Element_Alternative\obj\Debug\net6.0\Find_Array_Element_Alternative.genruntimeconfig.cache
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_2\Find_Array_Element_Alternative\obj\Debug\net6.0\ref\Find_Array_Element_Alternative.dll
