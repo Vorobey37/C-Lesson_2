@@ -1,0 +1,15 @@
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_2\Find_Array_Element\bin\Debug\net6.0\Find_Array_Element.exe
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_2\Find_Array_Element\bin\Debug\net6.0\Find_Array_Element.deps.json
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_2\Find_Array_Element\bin\Debug\net6.0\Find_Array_Element.runtimeconfig.json
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_2\Find_Array_Element\bin\Debug\net6.0\Find_Array_Element.dll
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_2\Find_Array_Element\bin\Debug\net6.0\Find_Array_Element.pdb
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_2\Find_Array_Element\obj\Debug\net6.0\Find_Array_Element.csproj.AssemblyReference.cache
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_2\Find_Array_Element\obj\Debug\net6.0\Find_Array_Element.GeneratedMSBuildEditorConfig.editorconfig
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_2\Find_Array_Element\obj\Debug\net6.0\Find_Array_Element.AssemblyInfoInputs.cache
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_2\Find_Array_Element\obj\Debug\net6.0\Find_Array_Element.AssemblyInfo.cs
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_2\Find_Array_Element\obj\Debug\net6.0\Find_Array_Element.csproj.CoreCompileInputs.cache
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_2\Find_Array_Element\obj\Debug\net6.0\Find_Array_Element.dll
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_2\Find_Array_Element\obj\Debug\net6.0\refint\Find_Array_Element.dll
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_2\Find_Array_Element\obj\Debug\net6.0\Find_Array_Element.pdb
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_2\Find_Array_Element\obj\Debug\net6.0\Find_Array_Element.genruntimeconfig.cache
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_2\Find_Array_Element\obj\Debug\net6.0\ref\Find_Array_Element.dll
